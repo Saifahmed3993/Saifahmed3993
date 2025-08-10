@@ -1,99 +1,73 @@
-<h1 align="center" id="saif-title">👋 Hey there! I'm **Saif Aldin Ahmed**</h1>
-<h3 align="center">🚀 Full-Stack .NET Developer | Problem Solver | Tech Enthusiast</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&center=true&vCenter=true&width=550&lines=Hey+there!+I'm+Saif+Aldin+Ahmed;Full-Stack+.NET+Developer;Building+Modern+Web+Solutions" />
+</h1>
 
 <p align="center">
   <a href="https://github.com/Saifahmed3993">
-    <img src="https://komarev.com/ghpvc/?username=Saifahmed3993" alt="GitHub Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=Saifahmed3993&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   </a>
   <a href="https://www.linkedin.com/in/saif-aldin-ahmed">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
   </a>
   <a href="mailto:saifahmedelbattawy@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-saifahmedelbattawy%40gmail.com-red?logo=gmail">
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=for-the-badge" alt="Email" />
   </a>
 </p>
 
 ---
 
 ##  About Me
-- 🎓 BSc in Information Systems, Misr University for Science & Technology  
-- 💼 .NET Team Leader with practical Full-Stack development experience  
-- 🛠 Skilled in **C#, C++, Java, Python, SQL, HTML, CSS, JavaScript, React.js, .NET, PHP, MySQL**  
--  Strong understanding of OOP, SOLID, Clean Code, and Design Patterns  
--  Passionate about modern, responsive web solutions and scalable architectures  
-
----
-
-##  Achievements & Experience
-
-**Professional Roles & Volunteering**  
-- Team Leader – .NET Track, Digital Egypt Pioneers (2025)  
-- Front-End Developer – Haya Karima Initiative  
-- Public Relations – Evolve Group & FDU  
-- Programming Head – Student Activities  
-
-**Training & Certifications**  
-- Full-Stack .NET Internship – Digital Egypt Pioneers (2025)  
-- +Value Program – NTA (2024)  
-- Intro to Cybersecurity – Cisco (2024)  
-- Software Engineering Workshop – Route Academy (2025)  
-- ICPC & Level 2 Problem Solving – C++  
-- Ongoing Full-Stack Development – SBS  
+- 🎓 Bachelor’s in Information Systems – Misr University for Science & Technology  
+-  Full-Stack .NET Developer & Team Leader at Digital Egypt Pioneers  
+-  Skilled in: **C#**, **.NET**, **React.js**, **JavaScript**, **PHP**, **MySQL**, **HTML5**, **CSS3**, **Bootstrap**  
+-  Strong foundations in **OOP**, **SOLID architecture**, **Clean Code**, **Design Patterns**  
+-  Passionate about building scalable, user-friendly solutions and continuously exploring new tech
 
 ---
 
 ##  Tech Stack
 
-| Category     | Tools & Languages |
-|--------------|-------------------|
-| **Languages** | C#, C++, Java, Python, SQL, JavaScript |
-| **Frontend**  | HTML5, CSS3, Bootstrap, React.js |
-| **Backend**   | .NET, PHP, MySQL, SQL Server |
-| **Tools**     | Git, GitHub, VS Code, Visual Studio |
-| **Concepts**  | OOP, SOLID, Clean Code, Design Patterns |
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 
 ---
 
 ##  Featured Projects
-*(From your GitHub repositories)*
 
-- **Saifahmed3993** – Personal profile/code collection (Updated Aug 10, 2025)  
-- **Build-a-Collapsible-Sidebar** – CSS project (Updated Aug 10, 2025)  
-- **career-guidance** – PHP-based guidance system (Updated Aug 9, 2025)  
-- **test-ai** – HTML project with AI focus (Updated Aug 9, 2025)  
-- **Tracker** – C# tracking application (Updated Aug 7, 2025)  
-- **AI-Career-Path** – AI-driven career path tool (Updated Aug 6, 2025)  
-- **Books-3** – Forked book management project (Updated Aug 5, 2025)  
-- **Saif-Aldin-Ahmed** – Portfolio website (HTML/CSS/JS/PHP/Bootstrap) (Updated Jul 30, 2025)  
-- **SA-School** – School-related web project (Updated Jul 30, 2025)  
-- **CS50-PSet** – C projects from CS50 (Updated Jun 10, 2025)  
-- **Softwarecompany3993** – HTML website (Updated Jun 3, 2025)  
-- **libraryManagementSystem** – C++ project (Updated Feb 25, 2025)  
-- **Delegates-recruitment** – HTML recruitment site (Updated Feb 25, 2025)  
-- **SBS-Student-activity1** – HTML student activity page (Updated Jan 17, 2025)  
-- **MacroPower** – Forked profile stats project in Shell (Updated Oct 14, 2024)  
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**SA School LMS**](https://github.com/Saifahmed3993/SA-School) | Responsive LMS with dashboards, bilingual support, and user management | HTML, CSS, Bootstrap, JS, PHP, MySQL |
+| [**3D SPHERE Website**](https://github.com/Saifahmed3993/Softwarecompany3993) | Interactive calling card for a software company | HTML, CSS, JS, PHP, MySQL |
+| [**Bank Management System**](https://github.com/Saifahmed3993/libraryManagementSystem) | Desktop banking system with OOP and transaction logic | C++ |
+| [**AI Career Path**](https://github.com/Saifahmed3993/AI-Career-Path) | AI-driven career guidance tool | HTML, CSS, PHP, JS |
 
 ---
 
-##  GitHub Stats & Trophies
+##  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saifahmed3993&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saifahmed3993&theme=tokyonight" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Saifahmed3993&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saifahmed3993&theme=radical" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saifahmed3993&theme=tokyonight&row=1&column=7" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Saifahmed3993&theme=onedark&row=1&column=7" alt="Trophies" />
 </p>
 
 ---
 
 ##  Contact Me
+
 - **Email:** [saifahmedelbattawy@gmail.com](mailto:saifahmedelbattawy@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/saif-aldin-ahmed](https://www.linkedin.com/in/saif-aldin-ahmed)  
 - **GitHub:** [github.com/Saifahmed3993](https://github.com/Saifahmed3993)  
-
----
-
-> _“Code is like humor. When you have to explain it, it’s bad.”_
 
